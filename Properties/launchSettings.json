@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PRN212_HW_1": {
+      "commandName": "Project",
+      "commandLineArgs": "file.txt",
+      "workingDirectory": "$(SolutionDir)\\"
+    }
+  }
+}
